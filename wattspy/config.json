@@ -1,0 +1,6 @@
+{
+  "rating": {
+    "max_show_times": 3,
+    "show_delay_hours": 150
+  }
+}
