@@ -4,7 +4,7 @@
     "show_delay_hours": 150
   },
   "ads": {
-    "enable": false,
+    "enable": true,
     "show_first_ad_after": 86400000
   }
 }
