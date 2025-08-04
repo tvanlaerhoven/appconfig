@@ -1,0 +1,18 @@
+{
+  "radio": [
+    {
+      "id": "studio_brussel",
+      "title": "Studio Brussel",
+      "genre": "Electronic",
+      "source": "https://icecast.vrtcdn.be/stubru-high.mp3",
+      "image": "https://www.radio.net/300/studiobrussel.jpeg"
+    },
+    {
+      "id": "studio_brussel_untz",
+      "title": "Studio Brussel UNTZ",
+      "genre": "Electronic",
+      "source": "https://icecast.vrtcdn.be/stubru_untz-high.mp3",
+      "image": "https://www.radio.net/300/studiobrussel.jpeg"
+    }
+  ]
+}
