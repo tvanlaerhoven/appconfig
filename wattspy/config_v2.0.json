@@ -1,0 +1,20 @@
+{
+  "server": {
+    "use_api": true,
+    "api": "wattspy-api.tomkat.be",
+    "cache_minutes": 15
+  },
+  "rating": {
+    "max_show_times": 3,
+    "show_delay_hours": 150
+  },
+  "ads": {
+    "enable": false,
+    "show_first_ad_after": 86400000,
+    "home": {
+      "show": true,
+      "native": false,
+      "banner_id": "ca-app-pub-6687912598500239/8552115309"
+    }
+  }
+}
