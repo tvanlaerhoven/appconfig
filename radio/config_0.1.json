@@ -1,0 +1,8 @@
+{
+  "server": {
+    "use_api": false,
+    "api": "",
+    "base": "",
+    "cache_minutes": 1440
+  }
+}
