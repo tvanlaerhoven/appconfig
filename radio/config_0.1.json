@@ -2,7 +2,12 @@
   "server": {
     "use_api": false,
     "api": "",
-    "base": "",
-    "cache_minutes": 1440
+    "cache_minutes": 1440,
+    "stations": {
+      "base": "https://raw.githubusercontent.com/tvanlaerhoven/appconfig/refs/heads/main/radio/stations.json"
+    },
+    "posters": {
+      "base": "https://raw.githubusercontent.com/tvanlaerhoven/appconfig/refs/heads/main/radio/posters/"
+    }
   }
 }
