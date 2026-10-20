@@ -28,12 +28,259 @@
     "posterAsset": "c099868f09bdc8649b71.png"
   },
   {
+    "id": "techno-by-rautemusik-fm",
+    "name": "__TECHNO__ by rautemusik.fm",
+    "country": "Germany",
+    "countryCode": "DE",
+    "genre": "Electronic",
+    "urls": [
+      "https://streams.rautemusik.fm/techno/mp3-192/?ref=radiobrowser",
+      "https://streams.rautemusik.fm/techno/mp3-192?ref=radiobrowser"
+    ],
+    "poster": "https://static.rautemusik.fm/man/rm5/images/player-bg/techno.jpg",
+    "group": "RauteMusik",
+    "posterAsset": "a098d39c2d2508278aa2.png"
+  },
+  {
+    "id": "rm-fm-techno-ex-techno4ever-fm",
+    "name": "rm.fm Techno (ex Techno4Ever.fm)",
+    "country": "Germany",
+    "countryCode": "DE",
+    "genre": "Electronic",
+    "urls": [
+      "https://rautemusik.stream39.radiohost.de/rautemusik-techno_mp3-192"
+    ],
+    "poster": "https://static.rautemusik.fm/man/rm5/images/player-bg/techno.jpg",
+    "group": "RauteMusik",
+    "posterAsset": "7cc51ab57ecfedd3f702.png"
+  },
+  {
+    "id": "rautemusik-techhouse",
+    "name": "RauteMusik TechHouse",
+    "country": "Germany",
+    "countryCode": "DE",
+    "genre": "Electronic",
+    "urls": [
+      "http://techhouse-high.rautemusik.fm/",
+      "http://techhouse-low.rautemusik.fm/",
+      "https://techhouse-high.rautemusik.fm/?ref=radiobrowser"
+    ],
+    "poster": "https://static.rautemusik.fm/man/rm5/images/player-bg/techhouse.jpg",
+    "group": "RauteMusik",
+    "posterAsset": "77dced488130d08b9bf7.png"
+  },
+  {
+    "id": "trance-by-rautemusik-rm-fm",
+    "name": "__TRANCE__ by rautemusik (rm.fm)",
+    "country": "Germany",
+    "countryCode": "DE",
+    "genre": "Electronic",
+    "urls": [
+      "https://trance-high.rautemusik.fm/?ref=radiobrowser"
+    ],
+    "poster": "https://static.rautemusik.fm/man/rm5/images/player-bg/trance.jpg",
+    "group": "RauteMusik",
+    "posterAsset": "41574e2182995c15c5ee.png"
+  },
+  {
+    "id": "rautemusik-club",
+    "name": "RauteMusik Club",
+    "country": "Germany",
+    "countryCode": "DE",
+    "genre": "Electronic",
+    "urls": [
+      "http://club-high.rautemusik.fm/",
+      "https://club-high.rautemusik.fm/?ref=radiobrowser"
+    ],
+    "poster": "https://static.rautemusik.fm/man/rm5/images/player-bg/club.jpg",
+    "group": "RauteMusik",
+    "posterAsset": "5d9e640e68547548ee5e.png"
+  },
+  {
+    "id": "house-by-rautemusik-rm-fm",
+    "name": "__HOUSE__ by rautemusik (rm.fm)",
+    "country": "Germany",
+    "countryCode": "DE",
+    "genre": "Electronic",
+    "urls": [
+      "https://house-high.rautemusik.fm/?ref=radiobrowser",
+      "http://house-high.rautemusik.fm/",
+      "http://house-low.rautemusik.fm/"
+    ],
+    "poster": "https://static.rautemusik.fm/man/rm5/images/logo-square.png",
+    "group": "RauteMusik",
+    "posterAsset": "e0f6ff7bfbb2ebeaf30c.png"
+  },
+  {
+    "id": "goldies-by-rautemusik-rm-fm",
+    "name": "__GOLDIES__ by rautemusik (rm.fm)",
+    "country": "Germany",
+    "countryCode": "DE",
+    "genre": "Electronic",
+    "urls": [
+      "http://goldies-high.rautemusik.fm/",
+      "https://goldies-high.rautemusik.fm/?ref=radiobrowser"
+    ],
+    "poster": "https://static.rautemusik.fm/man/rm5/images/player-bg/goldies.jpg",
+    "group": "RauteMusik",
+    "posterAsset": "96725670720c38b309e1.png"
+  },
+  {
+    "id": "partyhits-by-rautemusik-rm-fm",
+    "name": "__PARTYHITS__ by rautemusik (rm.fm)",
+    "country": "Germany",
+    "countryCode": "DE",
+    "genre": "Electronic",
+    "urls": [
+      "https://partyhits-high.rautemusik.fm/?ref=radiobrowser"
+    ],
+    "poster": "https://i.ibb.co/GFBh5tm/rautemusik-partyhits.jpg",
+    "group": "RauteMusik",
+    "posterAsset": "39453ea24d3fca494388.png"
+  },
+  {
+    "id": "charthits-fm-by-rautemusik-rm-fm",
+    "name": "__CHARTHITS.FM__ by rautemusik (rm.fm)",
+    "country": "Germany",
+    "countryCode": "DE",
+    "genre": "Electronic",
+    "urls": [
+      "https://charthits-high.rautemusik.fm/?ref=radiobrowser"
+    ],
+    "poster": "https://static.rautemusik.fm/man/rm5/images/player-bg/charthits.jpg",
+    "group": "RauteMusik",
+    "posterAsset": "834243fc56acb5433722.png"
+  },
+  {
+    "id": "rautemusik-club-48kbs",
+    "name": "RauteMusik Club 48kbs acc",
+    "country": "Germany",
+    "countryCode": "DE",
+    "genre": "Electronic",
+    "urls": [
+      "http://club-aacp.rautemusik.fm/?upd-meta&upd-scheme=http&_art=dD0xNzkwODI4NzA5JmQ9MjM5MDcyOTFjODQ2M2QyNTI2YjE",
+      "https://club-aacp.rautemusik.fm/"
+    ],
+    "poster": "https://static.rautemusik.fm/man/rm5/images/player-bg/club.jpg",
+    "group": "RauteMusik",
+    "posterAsset": "17fb6f57f2e9248ceff0.png"
+  },
+  {
+    "id": "bigcitybeats-fm-by-rautemusik-rm-fm",
+    "name": "__BIGCITYBEATS.FM__ by rautemusik (rm.fm)",
+    "country": "Germany",
+    "countryCode": "DE",
+    "genre": "Electronic",
+    "urls": [
+      "https://stream.bigcitybeats.de/bcb-radio/mp3-192/radiobrowser"
+    ],
+    "poster": "https://static.rautemusik.fm/man/rm5/images/player-bg/bigcitybeats.jpg",
+    "group": "RauteMusik",
+    "posterAsset": "be07dfbc87285328185f.png"
+  },
+  {
+    "id": "schlagerradio-fm-by-rautemusik-rm-fm",
+    "name": "__SCHLAGERRADIO.FM__ by rautemusik (rm.fm)",
+    "country": "Germany",
+    "countryCode": "DE",
+    "genre": "Electronic",
+    "urls": [
+      "https://schlager-high.rautemusik.fm/?ref=radiobrowser"
+    ],
+    "poster": "https://static.rautemusik.fm/man/rm5/images/player-bg/schlager.jpg",
+    "group": "RauteMusik",
+    "posterAsset": "b92929c2c95eb9cb0dfc.png"
+  },
+  {
+    "id": "harder-by-rautemusik-rm-fm",
+    "name": "__HARDER__ by rautemusik (rm.fm)",
+    "country": "Germany",
+    "countryCode": "DE",
+    "genre": "Electronic",
+    "urls": [
+      "https://harder-high.rautemusik.fm/?ref=radiobrowser",
+      "http://harder-high.rautemusik.fm/"
+    ],
+    "poster": "https://static.rautemusik.fm/man/rm5/images/player-bg/harder.jpg",
+    "group": "RauteMusik",
+    "posterAsset": "0080855e9b08c4ec6316.png"
+  },
+  {
+    "id": "deutsche-hits-by-rautemusik-rm-fm",
+    "name": "__DEUTSCHE HITS__ by rautemusik (rm.fm)",
+    "country": "Germany",
+    "countryCode": "DE",
+    "genre": "Electronic",
+    "urls": [
+      "https://deutsche-hits-high.rautemusik.fm/?ref=radiobrowser"
+    ],
+    "poster": "https://static.rautemusik.fm/man/rm5/images/player-bg/deutsche-hits.jpg",
+    "group": "RauteMusik",
+    "posterAsset": "87a3a382c10c46be3cae.png"
+  },
+  {
+    "id": "karneval-by-rautemusik-rm-fm",
+    "name": "__KARNEVAL__ by rautemusik (rm.fm)",
+    "country": "Germany",
+    "countryCode": "DE",
+    "genre": "Electronic",
+    "urls": [
+      "https://karneval-high.rautemusik.fm/?ref=radiobrowser"
+    ],
+    "poster": "https://static.rautemusik.fm/man/rm5/images/player-bg/karneval.jpg",
+    "group": "RauteMusik",
+    "posterAsset": "80bbb8fb81c306defb53.png"
+  },
+  {
+    "id": "shredded-by-rautemusik-rm-fm",
+    "name": "__SHREDDED__ by RauteMusik (rm.fm)",
+    "country": "Germany",
+    "countryCode": "DE",
+    "genre": "Electronic",
+    "urls": [
+      "https://streams.rautemusik.fm/shredded/mp3-192/stream.mp3"
+    ],
+    "poster": "https://static.rautemusik.fm/man/rm5/images/player-bg/shredded.jpg",
+    "group": "RauteMusik",
+    "posterAsset": "7fc3566b01d16de85343.png",
+    "failing": [
+      "2026-10-20T10:42:28.442Z"
+    ]
+  },
+  {
+    "id": "volksmusik-fm-by-rautemusik-rm-fm",
+    "name": "__VOLKSMUSIK.FM__ by rautemusik (rm.fm)",
+    "country": "Germany",
+    "countryCode": "DE",
+    "genre": "Electronic",
+    "urls": [
+      "https://volksmusik-high.rautemusik.fm/?ref=radiobrowser"
+    ],
+    "poster": "https://static.rautemusik.fm/man/rm5/images/player-bg/volksmusik.jpg",
+    "group": "RauteMusik",
+    "posterAsset": "573e71228efb616875b7.png"
+  },
+  {
+    "id": "rautemusik-caribbean-wave",
+    "name": "RauteMusik Caribbean Wave",
+    "country": "Germany",
+    "countryCode": "DE",
+    "genre": "Electronic",
+    "urls": [
+      "https://streams.rautemusik.fm/caribbean-wave/mp3-192/?ref=radiobrowser"
+    ],
+    "poster": "https://static.rautemusik.fm/man/rm5/images/player-bg/caribbean-wave.jpg",
+    "group": "RauteMusik",
+    "posterAsset": "4ce2bacafa80df01e2c8.png"
+  },
+  {
     "id": "topradio-belgium",
     "name": "TOPradio Belgium",
     "country": "Belgium",
     "countryCode": "BE",
     "genre": "Electronic",
     "urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/TOP_RADIO.mp3",
       "http://str.topradio.be/topradio.mp3",
       "https://str.topradio.be/topradio.mp3"
     ],
@@ -441,19 +688,6 @@
     "posterAsset": "634e1c9a4b1bd1734c82.png"
   },
   {
-    "id": "trance-by-rautemusik-rm-fm",
-    "name": "__TRANCE__ by rautemusik (rm.fm)",
-    "country": "Germany",
-    "countryCode": "DE",
-    "genre": "Electronic",
-    "urls": [
-      "https://trance-high.rautemusik.fm/?ref=radiobrowser"
-    ],
-    "poster": "https://static.rautemusik.fm/man/rm5/images/player-bg/trance.jpg",
-    "group": "RauteMusik",
-    "posterAsset": "41574e2182995c15c5ee.png"
-  },
-  {
     "id": "technobase-fm",
     "name": "TechnoBase.FM",
     "country": "Germany",
@@ -555,20 +789,6 @@
     "posterAsset": "fc59e2e3a00893ed9630.png"
   },
   {
-    "id": "rautemusik-club",
-    "name": "RauteMusik Club",
-    "country": "Germany",
-    "countryCode": "DE",
-    "genre": "Electronic",
-    "urls": [
-      "http://club-high.rautemusik.fm/",
-      "https://club-high.rautemusik.fm/?ref=radiobrowser"
-    ],
-    "poster": "https://static.rautemusik.fm/man/rm5/images/player-bg/club.jpg",
-    "group": "RauteMusik",
-    "posterAsset": "5d9e640e68547548ee5e.png"
-  },
-  {
     "id": "top-radio-retro",
     "name": "top radio retro",
     "country": "Belgium",
@@ -652,6 +872,7 @@
     "countryCode": "GB",
     "genre": "Electronic",
     "urls": [
+      "https://streams.radiomast.io/nts2",
       "http://stream-relay-geo.ntslive.net/stream2"
     ],
     "poster": "https://www.nts.live/css/images/nts-socials-img.png",
@@ -718,35 +939,6 @@
     "posterAsset": "9ac1a0bdc27b3b4e8239.png"
   },
   {
-    "id": "house-by-rautemusik-rm-fm",
-    "name": "__HOUSE__ by rautemusik (rm.fm)",
-    "country": "Germany",
-    "countryCode": "DE",
-    "genre": "Electronic",
-    "urls": [
-      "https://house-high.rautemusik.fm/?ref=radiobrowser",
-      "http://house-high.rautemusik.fm/",
-      "http://house-low.rautemusik.fm/"
-    ],
-    "poster": "https://static.rautemusik.fm/man/rm5/images/logo-square.png",
-    "group": "RauteMusik",
-    "posterAsset": "e0f6ff7bfbb2ebeaf30c.png"
-  },
-  {
-    "id": "goldies-by-rautemusik-rm-fm",
-    "name": "__GOLDIES__ by rautemusik (rm.fm)",
-    "country": "Germany",
-    "countryCode": "DE",
-    "genre": "Electronic",
-    "urls": [
-      "http://goldies-high.rautemusik.fm/",
-      "https://goldies-high.rautemusik.fm/?ref=radiobrowser"
-    ],
-    "poster": "https://static.rautemusik.fm/man/rm5/images/player-bg/goldies.jpg",
-    "group": "RauteMusik",
-    "posterAsset": "96725670720c38b309e1.png"
-  },
-  {
     "id": "sunshine-live-classic-and-vocal-house",
     "name": "sunshine live - Classic & Vocal House",
     "country": "Germany",
@@ -796,21 +988,6 @@
     "posterAsset": "18fc70d8401e9aacdc27.png"
   },
   {
-    "id": "rautemusik-techhouse",
-    "name": "RauteMusik TechHouse",
-    "country": "Germany",
-    "countryCode": "DE",
-    "genre": "Electronic",
-    "urls": [
-      "http://techhouse-high.rautemusik.fm/",
-      "http://techhouse-low.rautemusik.fm/",
-      "https://techhouse-high.rautemusik.fm/?ref=radiobrowser"
-    ],
-    "poster": "https://static.rautemusik.fm/man/rm5/images/player-bg/techhouse.jpg",
-    "group": "RauteMusik",
-    "posterAsset": "77dced488130d08b9bf7.png"
-  },
-  {
     "id": "kiosk-radio",
     "name": "Kiosk Radio",
     "country": "Belgium",
@@ -821,19 +998,6 @@
     ],
     "poster": "https://www.kioskradio.com//images/og-image.png",
     "posterAsset": "04108e0a38cf8bb1973a.png"
-  },
-  {
-    "id": "partyhits-by-rautemusik-rm-fm",
-    "name": "__PARTYHITS__ by rautemusik (rm.fm)",
-    "country": "Germany",
-    "countryCode": "DE",
-    "genre": "Electronic",
-    "urls": [
-      "https://partyhits-high.rautemusik.fm/?ref=radiobrowser"
-    ],
-    "poster": "https://i.ibb.co/GFBh5tm/rautemusik-partyhits.jpg",
-    "group": "RauteMusik",
-    "posterAsset": "39453ea24d3fca494388.png"
   },
   {
     "id": "sunshine-live-clubsound-berlin",
@@ -879,6 +1043,7 @@
     "countryCode": "DE",
     "genre": "Electronic",
     "urls": [
+      "https://streaming.nrjaudio.fm/ouvtknoarp52",
       "http://nrj.de/nostalgiediscofever"
     ],
     "poster": "https://station-images-prod.radio-assets.com/630/nostalgie.png?version=9e44c0d33d2b801bfce6c2c7853a96d94cc1e39a",
@@ -895,19 +1060,6 @@
     ],
     "poster": "https://www.yoloradio.be/uploads/3/9/6/3/3963899/photosforyou-ibiza-816512.jpg",
     "posterAsset": "c648d01b3138e78f4e2b.png"
-  },
-  {
-    "id": "charthits-fm-by-rautemusik-rm-fm",
-    "name": "__CHARTHITS.FM__ by rautemusik (rm.fm)",
-    "country": "Germany",
-    "countryCode": "DE",
-    "genre": "Electronic",
-    "urls": [
-      "https://charthits-high.rautemusik.fm/?ref=radiobrowser"
-    ],
-    "poster": "https://static.rautemusik.fm/man/rm5/images/player-bg/charthits.jpg",
-    "group": "RauteMusik",
-    "posterAsset": "834243fc56acb5433722.png"
   },
   {
     "id": "sunshine-live-summer-beats",
@@ -928,6 +1080,7 @@
     "countryCode": "BE",
     "genre": "Electronic",
     "urls": [
+      "https://stream.wradio.es:9000/;stream/1",
       "http://stream.wradio.es:9000/;stream/1"
     ],
     "poster": "https://www.wradio.be/uploads/general/_1200x630_crop_center-center_82_none/facebook-og-image.png?mtime=1623157242",
@@ -968,20 +1121,6 @@
     ],
     "poster": "https://www.hardbase.fm/media/icons/hb/apple-touch-icon.png",
     "posterAsset": "e0014d1512ffcdf72de4.png"
-  },
-  {
-    "id": "rautemusik-club-48kbs",
-    "name": "RauteMusik Club 48kbs acc",
-    "country": "Germany",
-    "countryCode": "DE",
-    "genre": "Electronic",
-    "urls": [
-      "http://club-aacp.rautemusik.fm/?upd-meta&upd-scheme=http&_art=dD0xNzkwODI4NzA5JmQ9MjM5MDcyOTFjODQ2M2QyNTI2YjE",
-      "https://club-aacp.rautemusik.fm/"
-    ],
-    "poster": "https://static.rautemusik.fm/man/rm5/images/player-bg/club.jpg",
-    "group": "RauteMusik",
-    "posterAsset": "17fb6f57f2e9248ceff0.png"
   },
   {
     "id": "technobase-fm-dk",
@@ -1128,6 +1267,7 @@
     "countryCode": "BE",
     "genre": "Electronic",
     "urls": [
+      "https://play.radioking.io/galaxieradio-belgium-1/356660",
       "https://www.radioking.com/play/galaxieradio-belgium-1/356660"
     ],
     "poster": "https://galaxiebelgium.com/images/og-image.jpg",
@@ -1212,6 +1352,7 @@
     "countryCode": "BE",
     "genre": "Electronic",
     "urls": [
+      "https://media1.hostin.cc/rgr2.mp3",
       "https://stream2.rgrfm.be/"
     ],
     "poster": "",
@@ -1260,6 +1401,7 @@
     "countryCode": "BE",
     "genre": "Electronic",
     "urls": [
+      "https://stream.rcs.revma.com/5wesqhfap98uv",
       "http://radiofg.impek.com/fga"
     ],
     "poster": "https://radiofg.be/wp-content/uploads/2021/09/FC_FGA-scaled-1-770x513.jpg",
@@ -1355,32 +1497,6 @@
     "posterAsset": "862c9e0d4c1983a41756.png"
   },
   {
-    "id": "bigcitybeats-fm-by-rautemusik-rm-fm",
-    "name": "__BIGCITYBEATS.FM__ by rautemusik (rm.fm)",
-    "country": "Germany",
-    "countryCode": "DE",
-    "genre": "Electronic",
-    "urls": [
-      "https://stream.bigcitybeats.de/bcb-radio/mp3-192/radiobrowser"
-    ],
-    "poster": "https://static.rautemusik.fm/man/rm5/images/player-bg/bigcitybeats.jpg",
-    "group": "RauteMusik",
-    "posterAsset": "be07dfbc87285328185f.png"
-  },
-  {
-    "id": "schlagerradio-fm-by-rautemusik-rm-fm",
-    "name": "__SCHLAGERRADIO.FM__ by rautemusik (rm.fm)",
-    "country": "Germany",
-    "countryCode": "DE",
-    "genre": "Electronic",
-    "urls": [
-      "https://schlager-high.rautemusik.fm/?ref=radiobrowser"
-    ],
-    "poster": "https://static.rautemusik.fm/man/rm5/images/player-bg/schlager.jpg",
-    "group": "RauteMusik",
-    "posterAsset": "b92929c2c95eb9cb0dfc.png"
-  },
-  {
     "id": "technobase-fm-3",
     "name": "technobase.fm HD ACC",
     "country": "Germany",
@@ -1404,20 +1520,6 @@
     ],
     "poster": "https://pure-fm.de/wp-content/uploads/logo-pure-BLN-ukw-106-8-dab-claim-weiss.png",
     "posterAsset": "2caa13f16f79851c02d2.png"
-  },
-  {
-    "id": "harder-by-rautemusik-rm-fm",
-    "name": "__HARDER__ by rautemusik (rm.fm)",
-    "country": "Germany",
-    "countryCode": "DE",
-    "genre": "Electronic",
-    "urls": [
-      "https://harder-high.rautemusik.fm/?ref=radiobrowser",
-      "http://harder-high.rautemusik.fm/"
-    ],
-    "poster": "https://static.rautemusik.fm/man/rm5/images/player-bg/harder.jpg",
-    "group": "RauteMusik",
-    "posterAsset": "0080855e9b08c4ec6316.png"
   },
   {
     "id": "truckstopradio",
@@ -1455,61 +1557,6 @@
     ],
     "poster": "",
     "posterAsset": "bd40ecf4a363d9981b30.png"
-  },
-  {
-    "id": "deutsche-hits-by-rautemusik-rm-fm",
-    "name": "__DEUTSCHE HITS__ by rautemusik (rm.fm)",
-    "country": "Germany",
-    "countryCode": "DE",
-    "genre": "Electronic",
-    "urls": [
-      "https://deutsche-hits-high.rautemusik.fm/?ref=radiobrowser"
-    ],
-    "poster": "https://static.rautemusik.fm/man/rm5/images/player-bg/deutsche-hits.jpg",
-    "group": "RauteMusik",
-    "posterAsset": "87a3a382c10c46be3cae.png"
-  },
-  {
-    "id": "karneval-by-rautemusik-rm-fm",
-    "name": "__KARNEVAL__ by rautemusik (rm.fm)",
-    "country": "Germany",
-    "countryCode": "DE",
-    "genre": "Electronic",
-    "urls": [
-      "https://karneval-high.rautemusik.fm/?ref=radiobrowser"
-    ],
-    "poster": "https://static.rautemusik.fm/man/rm5/images/player-bg/karneval.jpg",
-    "group": "RauteMusik",
-    "posterAsset": "80bbb8fb81c306defb53.png"
-  },
-  {
-    "id": "shredded-by-rautemusik-rm-fm",
-    "name": "__SHREDDED__ by RauteMusik (rm.fm)",
-    "country": "Germany",
-    "countryCode": "DE",
-    "genre": "Electronic",
-    "urls": [
-      "https://streams.rautemusik.fm/shredded/mp3-192/stream.mp3"
-    ],
-    "poster": "https://static.rautemusik.fm/man/rm5/images/player-bg/shredded.jpg",
-    "group": "RauteMusik",
-    "posterAsset": "7fc3566b01d16de85343.png",
-    "failing": [
-      "2026-10-20T10:42:28.442Z"
-    ]
-  },
-  {
-    "id": "volksmusik-fm-by-rautemusik-rm-fm",
-    "name": "__VOLKSMUSIK.FM__ by rautemusik (rm.fm)",
-    "country": "Germany",
-    "countryCode": "DE",
-    "genre": "Electronic",
-    "urls": [
-      "https://volksmusik-high.rautemusik.fm/?ref=radiobrowser"
-    ],
-    "poster": "https://static.rautemusik.fm/man/rm5/images/player-bg/volksmusik.jpg",
-    "group": "RauteMusik",
-    "posterAsset": "573e71228efb616875b7.png"
   },
   {
     "id": "dj-zone-house-radio-24-7",
@@ -1765,32 +1812,6 @@
     "posterAsset": "b1bea3a85ae73e58ecd6.png"
   },
   {
-    "id": "rautemusik-caribbean-wave",
-    "name": "RauteMusik Caribbean Wave",
-    "country": "Germany",
-    "countryCode": "DE",
-    "genre": "Electronic",
-    "urls": [
-      "https://streams.rautemusik.fm/caribbean-wave/mp3-192/?ref=radiobrowser"
-    ],
-    "poster": "https://static.rautemusik.fm/man/rm5/images/player-bg/caribbean-wave.jpg",
-    "group": "RauteMusik",
-    "posterAsset": "4ce2bacafa80df01e2c8.png"
-  },
-  {
-    "id": "rm-fm-techno-ex-techno4ever-fm",
-    "name": "rm.fm Techno (ex Techno4Ever.fm)",
-    "country": "Germany",
-    "countryCode": "DE",
-    "genre": "Electronic",
-    "urls": [
-      "https://rautemusik.stream39.radiohost.de/rautemusik-techno_mp3-192"
-    ],
-    "poster": "https://static.rautemusik.fm/man/rm5/images/player-bg/techno.jpg",
-    "group": "RauteMusik",
-    "posterAsset": "7cc51ab57ecfedd3f702.png"
-  },
-  {
     "id": "solar-radio-256",
     "name": "Solar Radio 256",
     "country": "The United Kingdom Of Great Britain And Northern Ireland",
@@ -2040,6 +2061,8 @@
     "countryCode": "BE",
     "genre": "Pop/Hits",
     "urls": [
+      "https://quantumcast.vrtcdn.be/mnm/mp3-128",
+      "http://quantumcast.vrtcdn.be/mnm/mp3-128",
       "https://icecast.vrtcdn.be/mnm-high.mp3",
       "http://icecast.vrtcdn.be/mnm-high.mp3"
     ],
@@ -2053,6 +2076,8 @@
     "countryCode": "BE",
     "genre": "Pop/Hits",
     "urls": [
+      "https://quantumcast.vrtcdn.be/mnm_hits/mp3-128",
+      "http://quantumcast.vrtcdn.be/mnm_hits/mp3-128",
       "https://icecast.vrtcdn.be/mnm_hits-high.mp3",
       "http://icecast.vrtcdn.be/mnm_hits-high.mp3"
     ],
@@ -2346,6 +2371,7 @@
     "countryCode": "NL",
     "genre": "Pop/Hits",
     "urls": [
+      "https://audio-streaming.qmusic.nl/Qmusic_nl_live_96.mp3",
       "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live_96.mp3"
     ],
     "poster": "https://upload.wikimedia.org/wikipedia/commons/7/70/Qmusic_logo.svg",
@@ -2382,6 +2408,7 @@
     "countryCode": "BE",
     "genre": "Pop/Hits",
     "urls": [
+      "https://radio.rtbf.be/tipik/mp3-160/rv",
       "https://radios.rtbf.be/pure-64.aac",
       "https://radios.rtbf.be/pure-128.mp3",
       "http://radios.rtbf.be/pure-128.mp3"
@@ -2446,6 +2473,10 @@
     "countryCode": "BE",
     "genre": "Pop/Hits",
     "urls": [
+      "https://quantumcast.vrtcdn.be/ra2ant/mp3-128",
+      "https://quantumcast.vrtcdn.be/ra2ant/aac-128",
+      "http://quantumcast.vrtcdn.be/ra2ant/mp3-128",
+      "http://quantumcast.vrtcdn.be/ra2ant/aac-128",
       "https://icecast.vrtcdn.be/ra2ant-high.mp3",
       "https://icecast.vrtcdn.be/ra2ant.aac",
       "http://icecast.vrtcdn.be/ra2ant-high.mp3",
@@ -2461,6 +2492,7 @@
     "countryCode": "BE",
     "genre": "Pop/Hits",
     "urls": [
+      "https://str01.fluidstream.net/ric.mp3",
       "http://str01.fluidstream.net:7170/listen.pls"
     ],
     "poster": "https://www.radioitaliacharleroi.com/images/fb-seo.jpg",
@@ -2486,6 +2518,10 @@
     "countryCode": "BE",
     "genre": "Pop/Hits",
     "urls": [
+      "https://quantumcast.vrtcdn.be/ra2vlb/aac-128",
+      "https://quantumcast.vrtcdn.be/ra2vlb/mp3-128",
+      "http://quantumcast.vrtcdn.be/ra2vlb/aac-128",
+      "http://quantumcast.vrtcdn.be/ra2vlb/mp3-128",
       "https://icecast.vrtcdn.be/ra2vlb.aac",
       "https://icecast.vrtcdn.be/ra2vlb-high.mp3",
       "http://icecast.vrtcdn.be/ra2vlb.aac",
@@ -2527,6 +2563,8 @@
     "countryCode": "BE",
     "genre": "Pop/Hits",
     "urls": [
+      "http://quantumcast.vrtcdn.be/ra2lim/mp3-128",
+      "https://quantumcast.vrtcdn.be/ra2lim/mp3-128",
       "http://icecast.vrtcdn.be/ra2lim-high.mp3",
       "https://icecast.vrtcdn.be/ra2lim-high.mp3"
     ],
@@ -2540,6 +2578,8 @@
     "countryCode": "BE",
     "genre": "Pop/Hits",
     "urls": [
+      "https://quantumcast.vrtcdn.be/ra2wvl/mp3-128",
+      "http://quantumcast.vrtcdn.be/ra2wvl/mp3-128",
       "https://icecast.vrtcdn.be/ra2wvl-high.mp3",
       "http://icecast.vrtcdn.be/ra2wvl-high.mp3"
     ],
@@ -2568,6 +2608,7 @@
     "countryCode": "NL",
     "genre": "Pop/Hits",
     "urls": [
+      "https://audio-streaming.qmusic.nl/Qmusic_nl_fouteuur_96.mp3",
       "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_fouteuur_96.mp3"
     ],
     "poster": "https://upload.wikimedia.org/wikipedia/commons/7/70/Qmusic_logo.svg",
@@ -2580,6 +2621,10 @@
     "countryCode": "BE",
     "genre": "Pop/Hits",
     "urls": [
+      "https://quantumcast.vrtcdn.be/ra2ovl/mp3-128",
+      "https://quantumcast.vrtcdn.be/ra2ovl/aac-128",
+      "http://quantumcast.vrtcdn.be/ra2ovl/mp3-128",
+      "http://quantumcast.vrtcdn.be/ra2ovl/aac-128",
       "https://icecast.vrtcdn.be/ra2ovl-high.mp3",
       "https://icecast.vrtcdn.be/ra2ovl.aac",
       "http://icecast.vrtcdn.be/ra2ovl-high.mp3",
@@ -2595,6 +2640,8 @@
     "countryCode": "BE",
     "genre": "Pop/Hits",
     "urls": [
+      "https://leopard.streemlion.com:6634/stream",
+      "https://leopard.streemlion.com/p/6634/stream",
       "http://stream2.slowradio.com/",
       "http://stream3.slowradio.com/"
     ],
@@ -2620,6 +2667,8 @@
     "countryCode": "BE",
     "genre": "Pop/Hits",
     "urls": [
+      "https://quantumcast.vrtcdn.be/ketnetradio/mp3-128",
+      "http://quantumcast.vrtcdn.be/ketnetradio/mp3-128",
       "https://icecast.vrtcdn.be/ketnetradio-high.mp3?dist=belgiefm",
       "https://icecast.vrtcdn.be/ketnetradio-high.mp3",
       "http://icecast.vrtcdn.be/ketnetradio-high.mp3"
@@ -2647,6 +2696,8 @@
     "countryCode": "BE",
     "genre": "Pop/Hits",
     "urls": [
+      "https://quantumcast.vrtcdn.be/radiobene/mp3-128",
+      "http://quantumcast.vrtcdn.be/radiobene/mp3-128",
       "https://icecast.vrtcdn.be/radio2_benebene-high.mp3",
       "http://icecast.vrtcdn.be/radio2_benebene-high.mp3"
     ],
@@ -2686,6 +2737,8 @@
     "countryCode": "BE",
     "genre": "Pop/Hits",
     "urls": [
+      "https://quantumcast.vrtcdn.be/radio2-unwind/mp3-128",
+      "http://quantumcast.vrtcdn.be/radio2-unwind/mp3-128",
       "https://icecast.vrtcdn.be/radio2_unwind-high.mp3",
       "http://icecast.vrtcdn.be/radio2_unwind-high.mp3"
     ],
@@ -2736,6 +2789,7 @@
     "countryCode": "BE",
     "genre": "Pop/Hits",
     "urls": [
+      "https://audio-streaming.qmusic.be/q-allstars.aac",
       "https://icecast-qmusicbe-cdp.triple-it.nl/q-allstars.aac"
     ],
     "poster": "https://station-images-prod.radio-assets.com/630/qmusicbe.png?version=58aeb161c79807c1ed84da49d05383dcdb3a4c2b",
@@ -3498,6 +3552,7 @@
     "countryCode": "NL",
     "genre": "Pop/Hits",
     "urls": [
+      "https://audio-streaming.qmusic.nl/Qmusic_qlmb_high.aac",
       "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_qlmb_high.aac"
     ],
     "poster": "https://i.postimg.cc/XYJbrvDT/Qmusic-Limburg.png",
@@ -3547,6 +3602,7 @@
     "countryCode": "BE",
     "genre": "Chillout",
     "urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/TOPZEN.mp3",
       "http://str.topradio.be/zenfm.mp3"
     ],
     "poster": "",
@@ -3559,6 +3615,10 @@
     "countryCode": "BE",
     "genre": "Chillout",
     "urls": [
+      "https://quantumcast.vrtcdn.be/stubru-vuurland/aac-128",
+      "https://quantumcast.vrtcdn.be/stubru-vuurland/mp3-128",
+      "http://quantumcast.vrtcdn.be/stubru-vuurland/aac-128",
+      "http://quantumcast.vrtcdn.be/stubru-vuurland/mp3-128",
       "https://icecast.vrtcdn.be/stubru_tgs.aac",
       "https://icecast.vrtcdn.be/stubru_tgs-high.mp3",
       "http://icecast.vrtcdn.be/stubru_tgs.aac",
@@ -3770,6 +3830,7 @@
     "countryCode": "BE",
     "genre": "Chillout",
     "urls": [
+      "http://oceanwaves-mynoise.radioca.st/stream",
       "http://oceanwaves.radio.mynoise.net/"
     ],
     "poster": "https://mynoise.net/Pix/card_logo.png",
@@ -3782,6 +3843,7 @@
     "countryCode": "BE",
     "genre": "Chillout",
     "urls": [
+      "http://rainyday-mynoise.radioca.st/stream",
       "http://rainyday.radio.mynoise.net/"
     ],
     "poster": "https://mynoise.net/Pix/card_logo.png",
@@ -3968,6 +4030,8 @@
     "countryCode": "BE",
     "genre": "Chillout",
     "urls": [
+      "https://quantumcast.vrtcdn.be/radio2-unwind/aac-128",
+      "http://quantumcast.vrtcdn.be/radio2-unwind/aac-128",
       "https://icecast.vrtcdn.be/radio2_relax.aac",
       "http://icecast.vrtcdn.be/radio2_relax.aac"
     ],
@@ -3997,20 +4061,6 @@
     ],
     "poster": "https://radio.ministry.fr/static/uploads/vienna/album_art.1788600534.png",
     "posterAsset": "d922c15be064a0569faa.png"
-  },
-  {
-    "id": "techno-by-rautemusik-fm",
-    "name": "__TECHNO__ by rautemusik.fm",
-    "country": "Germany",
-    "countryCode": "DE",
-    "genre": "Chillout",
-    "urls": [
-      "https://streams.rautemusik.fm/techno/mp3-192/?ref=radiobrowser",
-      "https://streams.rautemusik.fm/techno/mp3-192?ref=radiobrowser"
-    ],
-    "poster": "https://static.rautemusik.fm/man/rm5/images/player-bg/techno.jpg",
-    "group": "RauteMusik",
-    "posterAsset": "a098d39c2d2508278aa2.png"
   },
   {
     "id": "study-by-rautemusik-rm-fm",
@@ -4082,6 +4132,10 @@
     "countryCode": "BE",
     "genre": "Metal",
     "urls": [
+      "https://quantumcast.vrtcdn.be/stubru-zware/mp3-128",
+      "https://quantumcast.vrtcdn.be/stubru-zware/aac-128",
+      "http://quantumcast.vrtcdn.be/stubru-zware/mp3-128",
+      "http://quantumcast.vrtcdn.be/stubru-zware/aac-128",
       "https://icecast.vrtcdn.be/stubru_bruut-high.mp3",
       "https://icecast.vrtcdn.be/stubru_bruut.aac",
       "http://icecast.vrtcdn.be/stubru_bruut-high.mp3",
@@ -4097,6 +4151,7 @@
     "countryCode": "BE",
     "genre": "Metal",
     "urls": [
+      "https://radio.rtbf.be/c21-metal/mp3-128/rv",
       "https://radios.rtbf.be/wr-c21-metal-128.mp3"
     ],
     "poster": "https://www.radio.fr/300/classic2190s.png",
@@ -4248,6 +4303,8 @@
     "countryCode": "BE",
     "genre": "Rock",
     "urls": [
+      "https://quantumcast.vrtcdn.be/stubru/mp3-128",
+      "http://quantumcast.vrtcdn.be/stubru/mp3-128",
       "https://icecast.vrtcdn.be/stubru-high.mp3",
       "https://icecast.vrtcdn.be/stubru.aac",
       "https://icecast.vrtcdn.be/stubru-mid.mp3",
@@ -4265,6 +4322,10 @@
     "countryCode": "BE",
     "genre": "Rock",
     "urls": [
+      "https://quantumcast.vrtcdn.be/stubru_tijdloze/mp3-128",
+      "https://quantumcast.vrtcdn.be/stubru_tijdloze/aac-128",
+      "http://quantumcast.vrtcdn.be/stubru_tijdloze/mp3-128",
+      "http://quantumcast.vrtcdn.be/stubru_tijdloze/aac-128",
       "https://icecast.vrtcdn.be/stubru_tijdloze-high.mp3",
       "https://icecast.vrtcdn.be/stubru_tijdloze.aac",
       "http://icecast.vrtcdn.be/stubru_tijdloze-high.mp3",
@@ -4546,6 +4607,7 @@
     "countryCode": "BE",
     "genre": "Rock",
     "urls": [
+      "https://radio.rtbf.be/c21-live/mp3-128/rv",
       "https://radios.rtbf.be/wr-c21-live-128.mp3"
     ],
     "poster": "https://topitflopthat.files.wordpress.com/2013/04/classic-211.png",
@@ -4558,6 +4620,7 @@
     "countryCode": "BE",
     "genre": "Rock",
     "urls": [
+      "https://radio.rtbf.be/c21-soul/mp3-128/rv",
       "https://radios.rtbf.be/wr-c21-soul-128.mp3"
     ],
     "poster": "https://topitflopthat.files.wordpress.com/2013/04/classic-211.png",
@@ -4619,6 +4682,7 @@
     "countryCode": "BE",
     "genre": "Rock",
     "urls": [
+      "https://radio.rtbf.be/c21-under/mp3-128/rv",
       "https://radios.rtbf.be/wr-c21-underground-128.mp3"
     ],
     "poster": "https://www.radio.fr/300/classic21underground.png",
@@ -4777,6 +4841,7 @@
     "countryCode": "LU",
     "genre": "Rock",
     "urls": [
+      "https://play.radioking.io/rfm-luxembourg/137599",
       "https://www.radioking.com/play/rfm-luxembourg/137599"
     ],
     "poster": "https://station-images-prod.radio-assets.com/630/freeradioluxembourg.png?version=89575b7fea0f070314fe0fe8389916ce7d04285a",
@@ -5103,6 +5168,7 @@
     "countryCode": "FR",
     "genre": "Decades",
     "urls": [
+      "https://chantefrance80s.ice.infomaniak.ch/chantefrance80s-128.mp3",
       "http://stream1.chantefrance.com/cf-80"
     ],
     "poster": "",
@@ -5164,6 +5230,7 @@
     "countryCode": "IT",
     "genre": "Decades",
     "urls": [
+      "https://sphera.fluidstream.eu/radio80.mp3",
       "http://str01.fluidstream.net:7020/;stream.mp3"
     ],
     "poster": "https://upload.wikimedia.org/wikipedia/it/1/1b/Radio80.jpg",
@@ -5226,6 +5293,7 @@
     "countryCode": "BE",
     "genre": "Decades",
     "urls": [
+      "https://radio.rtbf.be/c21-60s/mp3-128/rv",
       "https://radios.rtbf.be/wr-c21-60-128.mp3"
     ],
     "poster": "https://topitflopthat.files.wordpress.com/2013/04/classic-211.png",
@@ -5250,6 +5318,7 @@
     "countryCode": "BE",
     "genre": "Decades",
     "urls": [
+      "https://radio.rtbf.be/c21-80s/mp3-128/rv",
       "https://radios.rtbf.be/wr-c21-80-128.mp3"
     ],
     "poster": "https://www.radio.fr/300/classic2180s.png",
@@ -5262,6 +5331,7 @@
     "countryCode": "BE",
     "genre": "Decades",
     "urls": [
+      "https://radio.rtbf.be/c21-70s/mp3-128/rv",
       "https://radios.rtbf.be/wr-c21-70-128.mp3"
     ],
     "poster": "https://topitflopthat.files.wordpress.com/2013/04/classic-211.png",
@@ -5300,6 +5370,7 @@
     "countryCode": "BE",
     "genre": "Decades",
     "urls": [
+      "https://radio.rtbf.be/c21-90s/mp3-128/rv",
       "https://radios.rtbf.be/wr-c21-90-128.mp3"
     ],
     "poster": "https://www.allzicradio.com/media/radios/classic21-90-allzicradio.png",
@@ -5375,6 +5446,7 @@
     "countryCode": "BE",
     "genre": "Decades",
     "urls": [
+      "https://radio.rtbf.be/vivaplus/mp3-160/rv",
       "https://radios.rtbf.be/vivaplus-128.mp3"
     ],
     "poster": "",
@@ -5400,6 +5472,7 @@
     "countryCode": "BE",
     "genre": "Decades",
     "urls": [
+      "https://media1.hostin.cc/rgr-classic-hits.mp3",
       "https://stream1.rgrfm.be/"
     ],
     "poster": "https://www.rgrfm.be/img/logo/rgrfm_logo_cover_big.png",
@@ -5585,6 +5658,7 @@
     "countryCode": "BE",
     "genre": "Decades",
     "urls": [
+      "https://stream.gal.io/radiopros",
       "https://stream4.audiostreamen.nl/radiopros"
     ],
     "poster": "https://radiopros.be/wp-content/uploads/2020/07/logo-PROS.png",
@@ -5695,6 +5769,7 @@
     "countryCode": "BE",
     "genre": "Decades",
     "urls": [
+      "https://remote.radiobenelux.be/MP3",
       "http://remote.radiobenelux.be/MP3"
     ],
     "poster": "https://bnlradio.be/wp-content/uploads/2026/01/cropped-Favicon3-180x180.png",
@@ -5743,6 +5818,9 @@
     "countryCode": "BE",
     "genre": "Decades",
     "urls": [
+      "https://quantumcast.vrtcdn.be/stubru-dejarennul/mp3-128",
+      "https://quantumcast.vrtcdn.be/stubru-dejarennul/aac-128",
+      "http://quantumcast.vrtcdn.be/stubru-dejarennul/aac-128",
       "https://icecast.vrtcdn.be/stubru_dejarennul-high.mp3",
       "https://icecast.vrtcdn.be/stubru_dejarennul.aac",
       "http://icecast.vrtcdn.be/stubru_dejarennul.aac"
@@ -5805,6 +5883,8 @@
     "countryCode": "BE",
     "genre": "Decades",
     "urls": [
+      "https://quantumcast.vrtcdn.be/radiobene/aac-128",
+      "http://quantumcast.vrtcdn.be/radiobene/aac-128",
       "https://icecast.vrtcdn.be/radiobene.aac",
       "http://icecast.vrtcdn.be/radiobene.aac"
     ],
@@ -5946,6 +6026,7 @@
     "countryCode": "DE",
     "genre": "Decades",
     "urls": [
+      "https://streaming.nrjaudio.fm/ou8oopgk7oiu",
       "http://nrj.de/nostalgieroute66"
     ],
     "poster": "https://station-images-prod.radio-assets.com/630/nostalgie.png?version=9e44c0d33d2b801bfce6c2c7853a96d94cc1e39a",
@@ -6872,6 +6953,7 @@
     "countryCode": "BE",
     "genre": "Jazz/Soul",
     "urls": [
+      "https://radio.rtbf.be/c21-blues/mp3-128/rv",
       "https://radios.rtbf.be/wr-c21-blues-128.mp3",
       "http://radios.rtbf.be/wr-c21-blues-128.mp3"
     ],
@@ -6897,6 +6979,7 @@
     "countryCode": "BE",
     "genre": "Jazz/Soul",
     "urls": [
+      "https://radio.rtbf.be/m3-jazz/mp3-192/rv",
       "https://radios.rtbf.be/wr-m3-jazz-128.mp3"
     ],
     "poster": "https://static-oaos.rtbf.be/assets/png/logotype/dark/musiq3-Jazz.png?r=20251208",
@@ -7168,6 +7251,7 @@
     "countryCode": "BE",
     "genre": "Hip-Hop",
     "urls": [
+      "https://radio.rtbf.be/tarmac/mp3-160/rv",
       "https://radios.rtbf.be/tarmac-128.mp3"
     ],
     "poster": "https://station-images-prod.radio-assets.com/630/tarmac.png?version=51205626cc3f10fdf758aa01d76d1b721b55bb92",
@@ -7233,6 +7317,7 @@
     "countryCode": "BE",
     "genre": "Hip-Hop",
     "urls": [
+      "https://radio.rtbf.be/jam/mp3-160/rv",
       "https://radios.rtbf.be/jam-128.mp3"
     ],
     "poster": "",
@@ -7383,6 +7468,10 @@
     "countryCode": "BE",
     "genre": "Classical",
     "urls": [
+      "https://quantumcast.vrtcdn.be/klaracontinuo/aac-128",
+      "https://quantumcast.vrtcdn.be/klaracontinuo/mp3-128",
+      "http://quantumcast.vrtcdn.be/klaracontinuo/mp3-128",
+      "http://quantumcast.vrtcdn.be/klaracontinuo/aac-128",
       "https://icecast.vrtcdn.be/klaracontinuo.aac",
       "https://icecast.vrtcdn.be/klaracontinuo-high.mp3",
       "http://icecast.vrtcdn.be/klaracontinuo-high.mp3",
@@ -7487,6 +7576,10 @@
     "countryCode": "BE",
     "genre": "Classical",
     "urls": [
+      "https://quantumcast.vrtcdn.be/klara/aac-128",
+      "https://quantumcast.vrtcdn.be/klara/mp3-128",
+      "http://quantumcast.vrtcdn.be/klara/mp3-128",
+      "http://quantumcast.vrtcdn.be/klara/aac-128",
       "https://icecast.vrtcdn.be/klara.aac",
       "https://icecast.vrtcdn.be/klara-high.mp3",
       "http://icecast.vrtcdn.be/klara-high.mp3",
@@ -7514,6 +7607,7 @@
     "countryCode": "BE",
     "genre": "Classical",
     "urls": [
+      "https://radio.rtbf.be/musiq3/mp3-320/rv",
       "https://radios.rtbf.be/musiq3-128.aac"
     ],
     "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/RTBF_Musiq3_logo.svg/1280px-RTBF_Musiq3_logo.svg.png",
@@ -7526,6 +7620,7 @@
     "countryCode": "BE",
     "genre": "Classical",
     "urls": [
+      "https://radio.rtbf.be/m3-bar/mp3-192/rv",
       "https://radios.rtbf.be/wr-m3-baroque-128.mp3"
     ],
     "poster": "https://station-images-prod.radio-assets.com/630/musiq3.png?version=b3e339c61073ede313e6d778a3fb652f82a90650",
@@ -7563,6 +7658,7 @@
     "countryCode": "BE",
     "genre": "Classical",
     "urls": [
+      "https://radio.rtbf.be/musiq3/mp3-320/rv",
       "https://radios.rtbf.be/musiq3-128.mp3"
     ],
     "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/RTBF_Musiq3_logo.svg/1280px-RTBF_Musiq3_logo.svg.png",
@@ -7714,6 +7810,7 @@
     "countryCode": "BE",
     "genre": "Country",
     "urls": [
+      "https://radio.rtbf.be/c21-route66/mp3-128/rv",
       "https://radios.rtbf.be/wr-c21-route66-128.mp3"
     ],
     "poster": "https://topitflopthat.files.wordpress.com/2013/04/classic-211.png",
